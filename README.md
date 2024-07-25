@@ -15,7 +15,7 @@ Burger House is a stylish and modern restaurant website showcasing a variety of 
 
 ## Demo
 
-You can see the live demo of the website [here](#).
+You can see the live demo of the website [here](#).(Will be add shortly)
 
 ## Features
 
@@ -48,6 +48,28 @@ You can see the live demo of the website [here](#).
 
 Usage
   1. Open index.html in your web browser to view the website.
+     
+File Structure
+   burger-house/
+   ├── assets/
+   │   ├── banner-1.png
+   │   ├── banner-2.png
+   │   ├── banner-3.png
+   │   ├── event.png
+   │   ├── footer-bg.png
+   │   ├── header-bg.png
+   │   ├── header.png
+   │   ├── logo-dark.png
+   │   ├── logo-white.png
+   │   ├── order-1.png
+   │   ├── order-2.png
+   │   ├── order-3.png
+   │   ├── reservation-bg-1.png
+   │   └── reservation-bg-2.png
+   ├── index.html
+   ├── main.js
+   └── style.css
+   
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.    
