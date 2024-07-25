@@ -47,30 +47,39 @@ You can see the live demo of the website [here](#).(Will be add shortly)
    cd burger-house
 
 ## Usage
+
   1. Open index.html in your web browser to view the website.
      
 ## File Structure
-   burger-house/
-   ├── assets/
-   │   ├── banner-1.png
-   │   ├── banner-2.png
-   │   ├── banner-3.png
-   │   ├── event.png
-   │   ├── footer-bg.png
-   │   ├── header-bg.png
-   │   ├── header.png
-   │   ├── logo-dark.png
-   │   ├── logo-white.png
-   │   ├── order-1.png
-   │   ├── order-2.png
-   │   ├── order-3.png
-   │   ├── reservation-bg-1.png
-   │   └── reservation-bg-2.png
-   ├── index.html
-   ├── main.js
-   └── style.css
-   
 
-License
+```bash
+mkdir assets
+touch assets/banner-1.png
+touch assets/banner-2.png
+touch assets/banner-3.png
+touch assets/event.png
+touch assets/footer-bg.png
+touch assets/header-bg.png
+touch assets/header.png
+touch assets/logo-dark.png
+touch assets/logo-white.png
+touch assets/order-1.png
+touch assets/order-2.png
+touch assets/order-3.png
+touch assets/reservation-bg-1.png
+touch assets/reservation-bg-2.png
+
+```bash
+touch index.html
+touch style.css
+touch scrpit.js
+
+```bash
+tree
+
+
+
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.    
   Feel free to adjust any sections according to your specific details and preferences.
