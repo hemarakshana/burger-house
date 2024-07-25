@@ -46,10 +46,10 @@ You can see the live demo of the website [here](#).(Will be add shortly)
    ```bash
    cd burger-house
 
-Usage
+## Usage
   1. Open index.html in your web browser to view the website.
      
-File Structure
+## File Structure
    burger-house/
    ├── assets/
    │   ├── banner-1.png
